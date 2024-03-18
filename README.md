@@ -12,7 +12,7 @@
 - iOS 客户端: 搜索 【 [i卡兔](https://apps.apple.com/cn/app/i%E5%8D%A1%E5%85%94/id6477903870) 】
 
 ## 相关链接
-- [卡兔官网 katucloud.com](https://katucloud.com)
+- [卡兔官网 katucloud.com](https://app.katucloud.com)
 - [开发者官网 dev.katucloud.com](https://dev.katucloud.com)
 
 ## 注意事项
